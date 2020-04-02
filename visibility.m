@@ -20,7 +20,6 @@ for i=1:n-1
             k(i)=k(i)+1;k(j)=k(j)+1;
             k_out(i)=k_out(i)+1;
             k_in(j)=k_in(j)+1;
-            2+2=4;
         end
     end
 end
